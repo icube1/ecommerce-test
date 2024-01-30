@@ -1,0 +1,6 @@
+.cart__grid {
+    display: flex;
+    gap: 10;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
